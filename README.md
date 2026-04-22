@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudarshan Murade
 
-<!--
-**sudarshanmurade/sudarshanmurade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student (First Year)
+💡 Passionate about Programming & Technology
+🚀 Focused on becoming a skilled Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+🎯 Currently learning: Programming, Git & GitHub, Excel
+💻 Love building small projects to improve logic and solve real problems
+📈 Improving coding skills daily
+🛠 Exploring Web Development & new technologies
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+* C Programming
+* Python 🐍
+* JavaScript
+
+### 🌐 Web
+
+* HTML
+* CSS
+
+### 🧪 Tools & Platforms
+
+* Git & GitHub
+* VS Code
+
+---
+
+## 🚀 Projects
+
+🔹 Beginner Projects (Coming Soon)
+
+* Small programs using C & Python
+* Practice projects for logic building
+
+🔹 More Projects Coming Soon...
+
+---
+
+## 📈 Learning Roadmap
+
+✅ Git & GitHub Basics
+✅ First Programs Completed
+🔄 Learning JavaScript & Web Development
+🔜 Build Real Projects
+🔜 Data Structures & Algorithms
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn:  https://www.linkedin.com/in/sudarshan-murade-a36538387   
+🧑‍💻 GitHub: https://github.com/sudarshanmurade
+
+---
+
+## ⚡ Goal
+
+Become a strong developer and build real-world useful applications 🚀
