@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-🎯 Currently learning: Programming, Git & GitHub, Excel
+🎯 Currently learning: Programming, Excel , Git & GitHub
 💻 Love building small projects to improve logic and solve real problems
 📈 Improving coding skills daily
 🛠 Exploring Web Development & new technologies
@@ -48,10 +48,14 @@
 
 ## 📈 Learning Roadmap
 
-✅ Git & GitHub Basics
+✅ Git & GitHub Basics 
+
 ✅ First Programs Completed
+
 🔄 Learning JavaScript & Web Development
+
 🔜 Build Real Projects
+
 🔜 Data Structures & Algorithms
 
 ---
