@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sudarshan Murade
+# 👋 Hi, I'm Sudarshan
 
-🎓 IT Student (First Year)
+🎓 IT Student
 💡 Passionate about Programming & Technology
 🚀 Focused on becoming a skilled Software Developer
 
